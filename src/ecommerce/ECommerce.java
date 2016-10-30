@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author lab-unefa
+ * @author Anthony
  */
 public class ECommerce {
 
